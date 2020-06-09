@@ -1,0 +1,31 @@
+.b1 {background-color: black;height: 50px;position: relative;}
+#nav1{position: absolute;left: 70%;word-spacing: 10px}
+.b2{background-color: magenta;position: relative;height: 50px}
+#nav2{position: absolute;left: 40%;word-spacing: 10px}
+.b3{position: relative;left: 200px}
+.b4{position: relative;background-color: black;left: 17%;width: 950px;height: 600px;box-shadow: 3px 3px 5px;top: 50px}
+.women{position: absolute;float: left;color: white;left: 42%}
+.w1{position: relative;float: left;left: 20%;top:-500px; }
+.w2{position: relative;float: right;top:10px;left: -450px;}
+.w3{position: relative;float: left;left: 40%;top: -300px;}
+.w4{position: relative;float: right;top: 10px;left: -630px;}
+
+.head{position: absolute;float: left;top: 30px;left: 40px}
+.b5{position: relative;background-color: black;left: -2.9%;width: 950px;height: 600px;box-shadow: 3px 3px 5px;top: 400px}
+.b6{position: relative;background-color: magenta;left: -2.8%;width: 950px;height: 200px;box-shadow: 3px 3px 5px;top: 550px}
+.men{position: absolute;float: left;color: white;left: 42%}
+
+.m1{position: relative;float: left;left: 0%;top:-150px; }
+.m2{position: relative;float: right;top: -150px;left: -450px}
+.m3{position: relative;float: left;top:200px;left: -330px}
+.m4{position: relative;float: left;top: 200px;left: -120px}
+
+a {text-decoration:none;color: white}
+a:hover {color: orange}
+.list{position: relative;float: left;top: -270px;font-family: barlow condensed,sans serif;line-height: -10px}
+.social{position: relative;float: right;top: -270px;left: -50px}
+.copy{position: relative;top:-150px;left: 200px;font-family: barlow condensed,sans serif}
+
+
+
+
